@@ -1,0 +1,3 @@
+##dependencias 
+
+pip install requests
